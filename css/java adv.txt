@@ -1,0 +1,6 @@
+Maven-
+Maven is a project management tool which encompasses a project object model, a set of standards, a project lifecycle, a dependency management system, and logic for executing plugin goals at defined phases in a lifecycle. 
+Reference-
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhlcWJnSlF3RVAxRnVObHFMcjJEOElpbzlfd3xBQ3Jtc0tuNHlYZ2RzRWkzYm94Qm9SS09fam15UlBZdlhtR3BiODYzbWlBUXIwTzk0RG1hRXRPYUV2cjNkUkhKUXliZUgwam83SFNYdFYzQ0l0SXJOYU1XdmJtV29aRjJNVWx5Y1RIQWFPeVFMYmtDUzc0NTNZaw&q=https%3A%2F%2Fbooks.sonatype.com%2Fmvnref-book%2Freference%2Findex.html&v=Xatr8AZLOsE
+
+
